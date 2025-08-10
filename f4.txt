@@ -13,3 +13,5 @@ public static in(String[] args){
 }
 }
 >>>>>>> Stashed changes
+This is a Sample code
+To test conflict problem.
