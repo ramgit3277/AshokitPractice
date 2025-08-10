@@ -1,1 +1,4 @@
 This is s2 file.
+one
+two
+three

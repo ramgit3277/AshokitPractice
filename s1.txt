@@ -3,9 +3,8 @@ This is s1 file.
 Some lines of code.
 
 One more line.
-<<<<<<< HEAD
 
 This local code.
-=======
 Conflict check
->>>>>>> refs/remotes/origin/main
+
+This is new line
