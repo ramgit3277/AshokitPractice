@@ -1,0 +1,7 @@
+HI
+
+
+//JIRA-101 TASK
+public void main(String[] args){
+
+}[A	System.out.println("This is main method");[A[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[Dstatic [B[B[B

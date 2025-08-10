@@ -1,1 +1,9 @@
 This is f4 file.
+
+//JIRA-102 Task
+This is JIRA-102 Task
+class Student{
+	static{
+		System.out.println("This is Static method");
+	}
+}
