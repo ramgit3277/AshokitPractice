@@ -13,3 +13,8 @@ public static in(String[] args){
 }
 }
 >>>>>>> Stashed changes
+
+Enum ABC{
+	APPLE;
+	MANGO;
+}
