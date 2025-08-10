@@ -1,9 +1,15 @@
 This is f4 file.
 
+<<<<<<< Updated upstream
 //JIRA-102 Task
 This is JIRA-102 Task
 class Student{
 	static{
 		System.out.println("This is Static method");
 	}
+//JIRA-101 TASK
+public static in(String[] args){
+        System.out.println("This is main method");
 }
+}
+>>>>>>> Stashed changes
