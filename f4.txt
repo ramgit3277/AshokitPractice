@@ -1,6 +1,6 @@
 This is f4 file.
 
-<<<<<<< Updated upstream
+
 //JIRA-102 Task
 This is JIRA-102 Task
 class Student{
@@ -12,6 +12,9 @@ public static in(String[] args){
         System.out.println("This is main method");
 }
 }
->>>>>>> Stashed changes
 This is a Sample code
 To test conflict problem.
+Enum ABC{
+	APPLE;
+	MANGO;
+}
